@@ -11,6 +11,9 @@ body {
     display: flex;
     border-bottom: 1px solid rgb(42, 41, 41);
 }
+.nav-bar{
+    position: fixed;
+}
 
 .nav-menu {
     display: flex;
@@ -57,7 +60,9 @@ h3 {
     margin-top: 18px;
 
 }
-
+.content{
+    padding-top: 60px;
+}
 .nav-button {
     background-color: #000000;
     color: rgb(255, 255, 255);
